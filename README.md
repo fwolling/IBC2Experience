@@ -12,7 +12,7 @@ You may use the design files and source code of the developed prototype for scie
 
 ### History
 #### <a href="#demonstrator-0v1">Demonstrator V0.1 - 2026-11-19</a>
-The *IBC2Experience* demonstrated was presented at the <a href="https://www.mum-conf.org/2026/" target="_blank">MUM</a> conference in Glasgow, United Kingdom on Wednesday, December 2, 2026.
+The *IBC2Experience* demonstrator was presented at the <a href="https://www.mum-conf.org/2026/" target="_blank">MUM</a> conference in Glasgow, United Kingdom on Wednesday, December 2, 2026.
 
 ### <a id="demonstrator-0v1">Demonstrator V0.1</a>
 The first version of the open-source IBC demonstrator is built around the commercially available, off-the-shelf multi-function test and measurement device <a href="https://digilent.com/shop/analog-discovery-3/" target="_blank">Digilent Analog Discovery 3</a> and achieved a data rate of up to 4.8 kBit/s.
