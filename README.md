@@ -11,7 +11,7 @@ In this GitHub repository, we provide the design files of the enclosure and, in 
 You may use the design files and source code of the developed prototype for scientific, non-commercial purposes, provided that you give credit to the owners when publishing any work based on it. We would also be very interested to hear back from you if you use our prototype or files in any way and are happy to answer any questions or address any remarks related to it.
 
 ### History
-#### <a href="#demonstrator-0v1">Demonstrator V0.1 -- 2026-11-19</a>
+#### <a href="#demonstrator-0v1">Demonstrator V0.1 - 2026-11-19</a>
 The *IBC2Experience* demonstrated was presented at the <a href="https://www.mum-conf.org/2026/" target="_blank">MUM</a> conference in Glasgow, United Kingdom on Wednesday, December 2, 2026.
 
 ### <a id="demonstrator-0v1">Demonstrator V0.1</a>
