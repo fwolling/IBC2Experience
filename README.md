@@ -1,5 +1,5 @@
 # IBC2Experience
-## An Open-Source and Easy-to-Build Intra-Body Communication Demonstrator</br>for Hands-on User-Centric Research
+## An Open-Source and Easy-to-Build Intra-Body Communication Demonstrator for Hands-on User-Centric Research
 
 <img src="https://github.com/fwolling/IBC2Experience/blob/main/fig/IBC2Experience_demonstrator_v0.1.png" alt="IBC2Experience demonstrator V0.1" width="600" style="float: center;" />
 
